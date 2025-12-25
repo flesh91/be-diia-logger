@@ -29,7 +29,7 @@
         "find-circulars": "madge --circular --extensions ts ./"
     },
     "dependencies": {
-        "bson": "6.7.0",
+        "bson": "6.10.4",
         "lodash": "4.17.21",
         "pino": "9.1.0",
         "pino-pretty": "11.1.0"
