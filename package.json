@@ -32,7 +32,7 @@
         "bson": "6.7.0",
         "lodash": "4.17.21",
         "pino": "9.1.0",
-        "pino-pretty": "11.1.0"
+        "pino-pretty": "11.3.0"
     },
     "peerDependencies": {
         "@diia-inhouse/types": ">=6.33.0"
